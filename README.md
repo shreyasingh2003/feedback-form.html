@@ -34,6 +34,10 @@
          <input type="date">   <br/>
          date and time:  <br/>
             
+            
+            ![FORM - Personal - Microsoft​ Edge 30-01-2022 10_19_54 (2)](https://user-images.githubusercontent.com/97290356/151687341-d9a2cfa7-996a-4fe4-af7d-3261a00d826d.png)
+
+            
             ![FORM - Personal - Microsoft​ Edge 30-01-2022 10_19_54 (2)](https://user-images.githubusercontent.com/97290356/151687310-b4ba0476-e821-44fe-92ee-228e645df75f.png)
 
          <input type="datetime-local">   <br/>
