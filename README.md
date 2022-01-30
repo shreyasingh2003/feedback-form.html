@@ -33,6 +33,9 @@
          only date :   <br/>
          <input type="date">   <br/>
          date and time:  <br/>
+            
+            ![FORM - Personal - Microsoft​ Edge 30-01-2022 10_19_54 (2)](https://user-images.githubusercontent.com/97290356/151687310-b4ba0476-e821-44fe-92ee-228e645df75f.png)
+
          <input type="datetime-local">   <br/>
          more detail: <br/>
          <textarea row ="5"></textarea>   <br/>
